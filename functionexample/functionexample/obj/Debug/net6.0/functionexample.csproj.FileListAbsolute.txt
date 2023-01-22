@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.AssemblyInfo.cs
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\functionexample\functionexample\bin\Debug\net6.0\functionexample.exe
+C:\Users\DELL\source\repos\functionexample\functionexample\bin\Debug\net6.0\functionexample.deps.json
+C:\Users\DELL\source\repos\functionexample\functionexample\bin\Debug\net6.0\functionexample.runtimeconfig.json
+C:\Users\DELL\source\repos\functionexample\functionexample\bin\Debug\net6.0\functionexample.dll
+C:\Users\DELL\source\repos\functionexample\functionexample\bin\Debug\net6.0\functionexample.pdb
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.dll
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\refint\functionexample.dll
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.pdb
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\functionexample.genruntimeconfig.cache
+C:\Users\DELL\source\repos\functionexample\functionexample\obj\Debug\net6.0\ref\functionexample.dll
