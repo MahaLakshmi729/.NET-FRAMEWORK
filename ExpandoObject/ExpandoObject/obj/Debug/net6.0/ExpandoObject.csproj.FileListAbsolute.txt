@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ExpandoObject\ExpandoObject\obj\Debug\net6.0\ExpandoObject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ExpandoObject\ExpandoObject\obj\Debug\net6.0\ExpandoObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ExpandoObject\ExpandoObject\obj\Debug\net6.0\ExpandoObject.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ExpandoObject\ExpandoObject\obj\Debug\net6.0\ExpandoObject.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ExpandoObject\ExpandoObject\obj\Debug\net6.0\ExpandoObject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\expandoobject\expandoobject\bin\Debug\net6.0\expandoobject.exe
+C:\Users\DELL\source\repos\expandoobject\expandoobject\bin\Debug\net6.0\expandoobject.deps.json
+C:\Users\DELL\source\repos\expandoobject\expandoobject\bin\Debug\net6.0\expandoobject.runtimeconfig.json
+C:\Users\DELL\source\repos\expandoobject\expandoobject\bin\Debug\net6.0\expandoobject.dll
+C:\Users\DELL\source\repos\expandoobject\expandoobject\bin\Debug\net6.0\expandoobject.pdb
+C:\Users\DELL\source\repos\expandoobject\expandoobject\obj\Debug\net6.0\expandoobject.dll
+C:\Users\DELL\source\repos\expandoobject\expandoobject\obj\Debug\net6.0\refint\expandoobject.dll
+C:\Users\DELL\source\repos\expandoobject\expandoobject\obj\Debug\net6.0\expandoobject.pdb
+C:\Users\DELL\source\repos\expandoobject\expandoobject\obj\Debug\net6.0\expandoobject.genruntimeconfig.cache
+C:\Users\DELL\source\repos\expandoobject\expandoobject\obj\Debug\net6.0\ref\expandoobject.dll
