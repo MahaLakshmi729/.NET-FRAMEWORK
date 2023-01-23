@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\bin\Debug\net6.0\single_dimensional_array.exe
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\bin\Debug\net6.0\single_dimensional_array.deps.json
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\bin\Debug\net6.0\single_dimensional_array.runtimeconfig.json
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\bin\Debug\net6.0\single_dimensional_array.dll
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\bin\Debug\net6.0\single_dimensional_array.pdb
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.AssemblyInfo.cs
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.dll
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\refint\single_dimensional_array.dll
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.pdb
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\single_dimensional_array.genruntimeconfig.cache
+C:\Users\DELL\source\repos\single_dimensional_array\single_dimensional_array\obj\Debug\net6.0\ref\single_dimensional_array.dll
