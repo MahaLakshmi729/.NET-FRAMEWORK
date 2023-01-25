@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\bin\Debug\net6.0\parameter_no_return.exe
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\bin\Debug\net6.0\parameter_no_return.deps.json
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\bin\Debug\net6.0\parameter_no_return.runtimeconfig.json
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\bin\Debug\net6.0\parameter_no_return.dll
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\bin\Debug\net6.0\parameter_no_return.pdb
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.AssemblyInfo.cs
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.dll
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\refint\parameter_no_return.dll
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.pdb
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\parameter_no_return.genruntimeconfig.cache
+C:\Users\DELL\source\repos\parameter_no_return\parameter_no_return\obj\Debug\net6.0\ref\parameter_no_return.dll
