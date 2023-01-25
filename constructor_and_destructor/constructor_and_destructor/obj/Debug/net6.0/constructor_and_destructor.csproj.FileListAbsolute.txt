@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.AssemblyInfo.cs
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\bin\Debug\net6.0\constructor_and_destructor.exe
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\bin\Debug\net6.0\constructor_and_destructor.deps.json
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\bin\Debug\net6.0\constructor_and_destructor.runtimeconfig.json
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\bin\Debug\net6.0\constructor_and_destructor.dll
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\bin\Debug\net6.0\constructor_and_destructor.pdb
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.dll
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\refint\constructor_and_destructor.dll
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.pdb
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\constructor_and_destructor.genruntimeconfig.cache
+C:\Users\DELL\source\repos\constructor_and_destructor\constructor_and_destructor\obj\Debug\net6.0\ref\constructor_and_destructor.dll
