@@ -13,7 +13,7 @@ namespace constructorsanddestructors
             length = x;
             width = y;
         }
-        rectangle()
+        ~rectangle()
         {
             Console.WriteLine("finalizing rectangle..");
             Console.ReadLine();
