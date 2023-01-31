@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\buttons\buttons\bin\Debug\net6.0-windows\buttons.exe
+C:\Users\DELL\source\repos\buttons\buttons\bin\Debug\net6.0-windows\buttons.deps.json
+C:\Users\DELL\source\repos\buttons\buttons\bin\Debug\net6.0-windows\buttons.runtimeconfig.json
+C:\Users\DELL\source\repos\buttons\buttons\bin\Debug\net6.0-windows\buttons.dll
+C:\Users\DELL\source\repos\buttons\buttons\bin\Debug\net6.0-windows\buttons.pdb
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.vbproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.Form1.resources
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.AssemblyInfo.vb
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.dll
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\refint\buttons.dll
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.pdb
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\buttons.genruntimeconfig.cache
+C:\Users\DELL\source\repos\buttons\buttons\obj\Debug\net6.0-windows\ref\buttons.dll
