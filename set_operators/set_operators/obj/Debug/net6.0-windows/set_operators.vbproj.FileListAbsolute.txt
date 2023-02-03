@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\set_operators\set_operators\bin\Debug\net6.0-windows\set_operators.exe
+C:\Users\DELL\source\repos\set_operators\set_operators\bin\Debug\net6.0-windows\set_operators.deps.json
+C:\Users\DELL\source\repos\set_operators\set_operators\bin\Debug\net6.0-windows\set_operators.runtimeconfig.json
+C:\Users\DELL\source\repos\set_operators\set_operators\bin\Debug\net6.0-windows\set_operators.dll
+C:\Users\DELL\source\repos\set_operators\set_operators\bin\Debug\net6.0-windows\set_operators.pdb
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.vbproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.Form1.resources
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.AssemblyInfo.vb
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.dll
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\refint\set_operators.dll
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.pdb
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\set_operators.genruntimeconfig.cache
+C:\Users\DELL\source\repos\set_operators\set_operators\obj\Debug\net6.0-windows\ref\set_operators.dll
