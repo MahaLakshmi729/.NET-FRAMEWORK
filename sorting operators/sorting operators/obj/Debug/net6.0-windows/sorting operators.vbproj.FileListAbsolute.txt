@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\sorting operators\sorting operators\bin\Debug\net6.0-windows\sorting operators.exe
+C:\Users\DELL\source\repos\sorting operators\sorting operators\bin\Debug\net6.0-windows\sorting operators.deps.json
+C:\Users\DELL\source\repos\sorting operators\sorting operators\bin\Debug\net6.0-windows\sorting operators.runtimeconfig.json
+C:\Users\DELL\source\repos\sorting operators\sorting operators\bin\Debug\net6.0-windows\sorting operators.dll
+C:\Users\DELL\source\repos\sorting operators\sorting operators\bin\Debug\net6.0-windows\sorting operators.pdb
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.vbproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting_operators.Form1.resources
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.AssemblyInfo.vb
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.dll
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\refint\sorting operators.dll
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.pdb
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\sorting operators.genruntimeconfig.cache
+C:\Users\DELL\source\repos\sorting operators\sorting operators\obj\Debug\net6.0-windows\ref\sorting operators.dll
