@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamic_argument", "dynamic_argument\dynamic_argument.csproj", "{9EF429FC-7B12-4DC6-94E3-14B6B1F37142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF429FC-7B12-4DC6-94E3-14B6B1F37142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF429FC-7B12-4DC6-94E3-14B6B1F37142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF429FC-7B12-4DC6-94E3-14B6B1F37142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF429FC-7B12-4DC6-94E3-14B6B1F37142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683093A7-70B6-4815-93E9-38C2030B7B83}
+	EndGlobalSection
+EndGlobal

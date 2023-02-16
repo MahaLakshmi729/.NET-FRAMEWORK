@@ -1,0 +1,15 @@
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.csproj.AssemblyReference.cache
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.AssemblyInfoInputs.cache
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.AssemblyInfo.cs
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.csproj.CoreCompileInputs.cache
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\bin\Debug\net6.0\dynamic_argument.exe
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\bin\Debug\net6.0\dynamic_argument.deps.json
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\bin\Debug\net6.0\dynamic_argument.runtimeconfig.json
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\bin\Debug\net6.0\dynamic_argument.dll
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\bin\Debug\net6.0\dynamic_argument.pdb
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.dll
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\refint\dynamic_argument.dll
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.pdb
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\dynamic_argument.genruntimeconfig.cache
+C:\Users\mahagopi\source\repos\dynamic_argument\dynamic_argument\obj\Debug\net6.0\ref\dynamic_argument.dll
